@@ -1,0 +1,25 @@
+body {
+    font-family: sans-serif, Verdana;
+    color: black;
+    font-size:18px;
+    margin: auto;
+    width:50%;
+    background-image: url(Blue%20Background%20Color.png);
+    background-size: cover
+}
+   
+    h1 {
+        
+        text-align: center;
+        border-bottom: solid 20px black;
+        background-color: aqua;
+    }
+    
+    img{
+        
+    border: dotted 5px black;
+    border-radius: %10;
+    margin:auto;
+    width: 75%;
+    display:block;}
+    
